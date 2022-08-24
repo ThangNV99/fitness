@@ -14,9 +14,8 @@ const Footer = () => {
                     <img src={Logo} alt="Footer Logo"/>
                 </Link>
                 <p>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-                    Nam, eos. Iste in qui, quia molestiae placeat ipsum sunt dignissimos 
-                    laudantium hic non modi dolor. Voluptates laborum itaque possimus qui ullam?
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui tenetur harum 
+                pariatur! Iusto animi cupiditate, provident dolore porro eum obcaecati.
                 </p>
                 <div className="footer__socials">
                     <a href="https://linkedin.com/" target="_blank" rel='noreferrer noopener'>
